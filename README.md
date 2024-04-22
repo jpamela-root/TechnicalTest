@@ -1,1 +1,1 @@
-Arquivo RESSPOSTA 2 (arquivo markdown com respostas às perguntas de acompanhamento.)
+ANSWER 2 file (markdown file with answers to follow-up questions.)
